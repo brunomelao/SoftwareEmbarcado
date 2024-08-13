@@ -99,6 +99,7 @@ void vTask3(void *pvparameters)
         vTaskDelay(pdMS_TO_TICKS(100));
     }
 }
+
 void vTask4(void *pvparameters)
 {
     BaseType_t coreID;

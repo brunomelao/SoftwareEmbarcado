@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Melao/Projeto2/build/CMakeFiles/bootloader
+C:/Melao/Projeto2/build/CMakeFiles/bootloader.rule
+C:/Melao/Projeto2/build/CMakeFiles/bootloader-complete.rule
+C:/Melao/Projeto2/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Melao/Projeto2/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Melao/Projeto2/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Melao/Projeto2/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Melao/Projeto2/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Melao/Projeto2/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Melao/Projeto2/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
