@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "projeto14messagebuffer",
-    "project_version":    "cf37c0ce",
+    "project_version":    "87d908f9-dirty",
     "project_path":       "C:/Melao/SoftwareEmbarcado/projeto14messagebuffer",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.1.2",
     "build_dir":          "C:/Melao/SoftwareEmbarcado/projeto14messagebuffer/build",
