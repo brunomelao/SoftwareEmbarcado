@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "projeto16Timer",
-    "project_version":    "f5cf59b6-dirty",
+    "project_version":    "58673bd3-dirty",
     "project_path":       "C:/Melao/SoftwareEmbarcado/projeto16Timer",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.1.2",
     "build_dir":          "C:/Melao/SoftwareEmbarcado/projeto16Timer/build",
