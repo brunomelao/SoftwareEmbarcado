@@ -59,7 +59,7 @@ void timer_cb(TimerHandle_t xtimer){
 }
 
 void timerfim_cb(TimerHandle_t xtimer){
-    codigo[strlen(codigo)+1]='\0';
+    codigo[(uint16_t)pvTimerGetTimerID(timer1)+1]='\0';
     xSemaphoreGive(sem_sinc);
 }
 
@@ -78,7 +78,7 @@ void app_main(void)
     gpio_isr_handler_add(BT_IO, gpio_isr_handler, NULL);
 
     timer1 = xTimerCreate("Timer1", pdMS_TO_TICKS(200), pdTRUE, (void *)0, timer_cb);
-    timerfim = xTimerCreate("Timer1", pdMS_TO_TICKS(3000), pdTRUE, (void *)0, timer_cb);
+    timerfim = xTimerCreate("TimerFim", pdMS_TO_TICKS(3000), pdTRUE, (void *)0, timerfim_cb);
     sem_sinc = xSemaphoreCreateBinary();
 
     xTaskCreate(vTaskReconhece, "Task Reconhece caractere", 2048, NULL,1,NULL);
@@ -104,7 +104,9 @@ void vTaskReconhece(void* pvparameters)
             if (cnt == strlen(codigo))
             {
                 letra = characters[i];
+                cnt = 0;
                 break;
+                
             }
         }
         ESP_LOGI("RECONHECE", "Código decodificado: %c",letra);

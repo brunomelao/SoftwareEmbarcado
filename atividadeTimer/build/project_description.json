@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "atividadeTimer",
-    "project_version":    "58673bd3",
+    "project_version":    "7c45cd3a-dirty",
     "project_path":       "C:/Melao/SoftwareEmbarcado/atividadeTimer",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.1.2",
     "build_dir":          "C:/Melao/SoftwareEmbarcado/atividadeTimer/build",
