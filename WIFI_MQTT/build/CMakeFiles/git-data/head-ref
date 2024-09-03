@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 ee70675dc377e1938b1cfff4de5cb1edd5804422 unknown <Label@DESKTOP-EK12F52.(none)> 1723555934 -0300	clone: from https://github.com/brunomelao/SoftwareEmbarcado
+ee70675dc377e1938b1cfff4de5cb1edd5804422 cf37c0ce7c1e32f9c4805e904b78647faa940ad6 brunomelao <you@example.com> 1723556990 -0300	commit: atualizacao
+cf37c0ce7c1e32f9c4805e904b78647faa940ad6 87d908f93fecca4b9ba74290aaba013a8320b250 brunomelao <you@example.com> 1723557291 -0300	commit: atual
+87d908f93fecca4b9ba74290aaba013a8320b250 e226552d3c23517dfa471c2ab8d16cf08e5cd1a1 brunomelao <you@example.com> 1723558039 -0300	commit: atualização
+e226552d3c23517dfa471c2ab8d16cf08e5cd1a1 912c9ff94c1bf43b71273febbb0f2e9e6384a5e6 brunomelao <you@example.com> 1723559908 -0300	commit: Outros serviços do Kernel - Grupo de Eventos
+912c9ff94c1bf43b71273febbb0f2e9e6384a5e6 211b97a269a5bef213fa32b410a4d7f9f044ba29 brunomelao <you@example.com> 1723733421 -0300	commit: Atividade Stream Buffer e Grupo de Eventos
+211b97a269a5bef213fa32b410a4d7f9f044ba29 f5cf59b6b8b68200ce352c18535589ec6dceefb3 brunomelao <you@example.com> 1724162015 -0300	commit: Aula Timer
+f5cf59b6b8b68200ce352c18535589ec6dceefb3 58673bd3ce415f5375cfbbddf56636b8ffe1a098 brunomelao <you@example.com> 1724164373 -0300	commit: Aula Timers
+58673bd3ce415f5375cfbbddf56636b8ffe1a098 7c45cd3a9a168c77a58ee5d0cee5562a82e86901 brunomelao <you@example.com> 1724338735 -0300	commit: Atividade Timer - ainda errado
+7c45cd3a9a168c77a58ee5d0cee5562a82e86901 e43aeec5349e8c13f7eea52919ee69470fa10c64 brunomelao <you@example.com> 1724768918 -0300	commit: Aula Wifi HTTP

@@ -1819,3 +1819,5 @@
 25297	25574	7464712576878680	C:/Melao/SoftwareEmbarcado/WIFI_HTTP/build/.bin_timestamp	420e99d2ef930aaf
 25575	25662	0	esp-idf/esptool_py/CMakeFiles/app_check_size	e55e7395cc8b2c0d
 25575	25662	0	C:/Melao/SoftwareEmbarcado/WIFI_HTTP/build/esp-idf/esptool_py/CMakeFiles/app_check_size	e55e7395cc8b2c0d
+1	2750739	0	CMakeFiles/confserver	62f670823bb96ccd
+1	2750739	0	C:/Melao/SoftwareEmbarcado/WIFI_HTTP/build/CMakeFiles/confserver	62f670823bb96ccd
